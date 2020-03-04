@@ -1,16 +1,7 @@
 """
 Hash code 2019
 
-NP-complete problem
-
-
-NP 
-
-Problem can be solved in polynomial time using a non-deterministic turing machine
-
-NP-complete 
-
-Cannot be solved in polynomial time in any known ways 
+Reference code solution 
 
 """ 
 
