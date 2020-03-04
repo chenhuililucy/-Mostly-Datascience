@@ -1,6 +1,6 @@
 """ 
-
-Want timeseries and cross sectional data 
+I downloaded a csv with all countries from the given website 
+plotted time series scatter graphs and their respective R squared values. 
 
 """ 
 
