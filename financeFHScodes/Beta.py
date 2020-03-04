@@ -1,7 +1,6 @@
 ﻿# coding: utf-8
 
-
-# In[79]:
+# I thought it might be fun to collect and plot some data from YH finance for my finance problem sheet 
 
 import os
 
