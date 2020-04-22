@@ -1,4 +1,4 @@
-# Stats-and-Probablity-Contests
+# MISCELLANEOUS 
 Some new toolkits and materials I use to study (contains some random snippets of codes which I refer to/wrote myself) 
 
  This folder contains files which I use to self teach 
